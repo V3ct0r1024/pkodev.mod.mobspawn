@@ -5,7 +5,7 @@ Fixes the problem of instant respawn of killed monsters after restarting the ser
 ## Modification information
 
 - **Name:** pkodev.mod.mobspawn;
-- **Version:** 1.0;
+- **Version:** 1.1;
 - **Author:** V3ct0r;
 - **Type:** for server (GameServer.exe);
 - **Supported executable .exe files:** GAMESERVER_136, GAMESERVER_138.
